@@ -13,10 +13,9 @@
   </a>
 </p>
 
+<br/>
 
----
-
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -28,32 +27,44 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
+<br/>
+
+## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Orlando693&show_icons=true&theme=radical&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando693&layout=compact&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Orlando693&show_icons=true&theme=radical&hide_border=true" width="70%" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando693&layout=compact&theme=radical&hide_border=true" width="70%" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orlando693&theme=radical&hide_border=true" width="70%" />
 </div>
 
----
+
+<br/>
 
 ## 🚀 Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| [`Proyecto-IO1`](https://github.com/Orlando693/Proyecto-IO1) | Optimización de asignación de aulas usando MILP, React y FastAPI. | React, FastAPI, JavaScript |
-| [`Proyecto-Calculadora`](https://github.com/Orlando693/Proyecto-Calculadora) | Calculadora de escritorio simple en Windows. | C# |
-| [`Presupuesto-Web`](https://github.com/Orlando693/Presupuesto-Web) | Aplicación web para cálculo de presupuestos. | JavaScript, HTML, CSS |
-| [`PrimerProyecto`](https://github.com/Orlando693/PrimerProyecto) | Letra T en 3D usando programación gráfica. | C#, OpenGL |
+|----------|-------------|-------------|
+| [`Proyecto-IO1`](https://github.com/Orlando693/Proyecto-IO1) | Sistema de optimización para asignación de aulas utilizando MILP. | React, FastAPI, JavaScript |
+| [`Proyecto-Calculadora`](https://github.com/Orlando693/Proyecto-Calculadora) | Calculadora de escritorio desarrollada para entorno Windows. | C# |
+| [`Presupuesto-Web`](https://github.com/Orlando693/Presupuesto-Web) | Aplicación web para la gestión y cálculo de presupuestos personales. | JavaScript, HTML, CSS |
+| [`PrimerProyecto`](https://github.com/Orlando693/PrimerProyecto) | Representación gráfica 3D de la letra T usando OpenGL. | C#, OpenGL |
 
----
+<br/>
+
+## 👤 Sobre mí (opcional)
+
+Soy un apasionado del desarrollo frontend con gran interés en la optimización de interfaces y la lógica detrás de cada proyecto. Busco constantemente crecer profesionalmente, enfrentando desafíos reales y colaborando en equipos que compartan esa pasión por la tecnología.
+
+<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Orlando693&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  💻 ¡Gracias por visitar mi perfil! Siempre en busca de nuevos retos y aprendizajes.
+  💻 ¡Gracias por visitar mi perfil! Siempre motivado por aprender, crecer y afrontar nuevos desafíos.
 </p>
