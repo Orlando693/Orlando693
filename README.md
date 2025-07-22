@@ -1,17 +1,22 @@
 <h1 align="center">Orlando Moreno Cors</h1>
 <h3 align="center">Frontend Developer · Computer Engineering Student</h3>
 
-<p align="center">
-  <a href="mailto:orlandosebastian693@gmail.com">
+<div align="center">
+  <a href="mailto:orlandosebastian693@gmail.com" style="display: inline-block; margin: 0 10px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/orlando693" target="_blank">
+  <a href="https://www.linkedin.com/in/orlando693" target="_blank" style="display: inline-block; margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/amarillocors?igsh=c3g4dzVzcDIxbWc1" target="_blank">
+  <a href="https://www.instagram.com/amarillocors?igsh=c3g4dzVzcDIxbWc1" target="_blank" style="display: inline-block; margin: 0 10px;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</p>
+</div>
+
+
+
+
+
 
 <br/>
 
