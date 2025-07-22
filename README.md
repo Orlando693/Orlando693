@@ -31,14 +31,12 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Orlando693&show_icons=true&theme=radical&hide_border=true" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Orlando693&show_icons=true&theme=github_dark&hide_border=true" width="50%" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando693&layout=compact&theme=radical&hide_border=true" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando693&layout=compact&theme=github_dark&hide_border=true" width="50%" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orlando693&theme=radical&hide_border=true" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orlando693&theme=github_dark&hide_border=true" width="50%" />
 </div>
 
 
