@@ -1,5 +1,5 @@
 <h1 align="center">Orlando Moreno Cors</h1>
-<h3 align="center">Frontend Developer · Estudiante de Ingeniería Informática</h3>
+<h3 align="center">Frontend Developer · Computer Engineering Student</h3>
 
 <p align="center">
   <a href="mailto:orlandosebastian693@gmail.com">
@@ -32,30 +32,70 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Orlando693&show_icons=true&theme=github_dark&hide_border=true" width="50%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando693&layout=compact&theme=github_dark&hide_border=true" width="50%" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orlando693&theme=github_dark&hide_border=true" width="50%" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Orlando693&show_icons=true&theme=github_dark&hide_border=true" width="350px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando693&layout=compact&theme=github_dark&hide_border=true" width="350px" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orlando693&theme=github_dark&hide_border=true" width="700px" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Orlando693/Proyecto-IO1">Proyecto-IO1</a></td>
+      <td>Classroom allocation optimization system using MILP.</td>
+      <td>React, FastAPI, JavaScript</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Orlando693/Proyecto-Calculadora">Proyecto-Calculadora</a></td>
+      <td>Simple desktop calculator for Windows.</td>
+      <td>C#</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Orlando693/Presupuesto-Web">Presupuesto-Web</a></td>
+      <td>Web app for personal budget management.</td>
+      <td>JavaScript, HTML, CSS</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Orlando693/PrimerProyecto">PrimerProyecto</a></td>
+      <td>3D representation of the letter T using OpenGL.</td>
+      <td>C#, OpenGL</td>
+    </tr>
+  </tbody>
+</table>
+
 </div>
 
 
 <br/>
 
-## 🚀 Proyectos Destacados
+## 👤 About Me
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [`Proyecto-IO1`](https://github.com/Orlando693/Proyecto-IO1) | Sistema de optimización para asignación de aulas utilizando MILP. | React, FastAPI, JavaScript |
-| [`Proyecto-Calculadora`](https://github.com/Orlando693/Proyecto-Calculadora) | Calculadora de escritorio desarrollada para entorno Windows. | C# |
-| [`Presupuesto-Web`](https://github.com/Orlando693/Presupuesto-Web) | Aplicación web para la gestión y cálculo de presupuestos personales. | JavaScript, HTML, CSS |
-| [`PrimerProyecto`](https://github.com/Orlando693/PrimerProyecto) | Representación gráfica 3D de la letra T usando OpenGL. | C#, OpenGL |
-
-<br/>
-
-## 👤 Sobre mí (opcional)
-
-Soy un apasionado del desarrollo frontend con gran interés en la optimización de interfaces y la lógica detrás de cada proyecto. Busco constantemente crecer profesionalmente, enfrentando desafíos reales y colaborando en equipos que compartan esa pasión por la tecnología.
+I'm a passionate frontend developer with a strong interest in interface optimization and the logic behind each project. I'm constantly looking to grow professionally by tackling real-world challenges and collaborating with teams that share my enthusiasm for technology.
 
 <br/>
 
@@ -64,5 +104,5 @@ Soy un apasionado del desarrollo frontend con gran interés en la optimización 
 </p>
 
 <p align="center">
-  💻 ¡Gracias por visitar mi perfil! Siempre motivado por aprender, crecer y afrontar nuevos desafíos.
+  💻 Thanks for visiting my profile! Always motivated to learn, grow, and take on new challenges.
 </p>
