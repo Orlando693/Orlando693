@@ -5,7 +5,7 @@
   <a href="mailto:orlandosebastian693@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href=" www.linkedin.com/in/orlando693" target="_blank">
+  <a href="https://www.linkedin.com/in/orlando693" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/amarillocors?igsh=c3g4dzVzcDIxbWc1" target="_blank">
@@ -49,9 +49,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Orlando693&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 <p align="center">
   💻 ¡Gracias por visitar mi perfil! Siempre en busca de nuevos retos y aprendizajes.
