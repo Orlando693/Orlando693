@@ -57,44 +57,6 @@
 
 <br/>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Orlando693/Proyecto-IO1">Proyecto-IO1</a></td>
-      <td>Classroom allocation optimization system using MILP.</td>
-      <td>React, FastAPI, JavaScript</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Orlando693/Proyecto-Calculadora">Proyecto-Calculadora</a></td>
-      <td>Simple desktop calculator for Windows.</td>
-      <td>C#</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Orlando693/Presupuesto-Web">Presupuesto-Web</a></td>
-      <td>Web app for personal budget management.</td>
-      <td>JavaScript, HTML, CSS</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Orlando693/PrimerProyecto">PrimerProyecto</a></td>
-      <td>3D representation of the letter T using OpenGL.</td>
-      <td>C#, OpenGL</td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
-
 
 <br/>
 
