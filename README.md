@@ -20,7 +20,7 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -34,7 +34,7 @@
 
 <br/>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <table>
@@ -60,7 +60,7 @@
 
 <br/>
 
-## 👤 About Me
+##  About Me
 
 I'm a passionate frontend developer with a strong interest in interface optimization and the logic behind each project. I'm constantly looking to grow professionally by tackling real-world challenges and collaborating with teams that share my enthusiasm for technology.
 
