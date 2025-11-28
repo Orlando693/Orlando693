@@ -1,133 +1,170 @@
-<!-- PROFILE README — Orlando693 -->
-
-<h1 align="center">Orlando Moreno Cors</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer+%C2%B7+Computer+Engineering+Student;Next.js+%2B+Tailwind+%7C+NestJS+%2B+Prisma+%7C+PostgreSQL;Building+clean+UIs+and+solid+backends" alt="Typing SVG" />
-</p>
 
 <div align="center">
-  <a href="mailto:orlandosebastian693@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/orlando693" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/amarillocors?igsh=c3g4dzVzcDIxbWc1" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Orlando%20Moreno%20Cors&fontAlign=50&fontAlignY=40&color=0:0ea5e9,100:9333ea&fontColor=ffffff" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=980&lines=Frontend+Developer+%C2%B7+Computer+Engineering+Student;Next.js+%2B+Tailwind+%7C+NestJS+%2B+Prisma+%7C+PostgreSQL;Turning+ideas+into+clean+UI+%26+solid+APIs;Always+building+%F0%9F%9A%80+Always+learning+%E2%9C%A8" alt="Typing SVG" />
 
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Orlando693&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaborations-2ea44f?style=flat&logo=github&logoColor=white" alt="Open to collaborations" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 💻 Frontend developer focused on **clean UI, performance and good UX**
-- 🧠 I also enjoy backend logic and building **APIs + DB design**
-- 🔥 Currently leveling up: **NestJS + Prisma + PostgreSQL** and **Next.js (App Router)**
-
----
-
-## 🧰 Tech Stack
-
-### Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
-</p>
-
-### Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/NestJS-0B0B0B?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Prisma-0B0B0B?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Laravel-0B0B0B?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
-  <img src="https://img.shields.io/badge/PHP-0B0B0B?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
-</p>
-
-### Databases & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-0B0B0B?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-0B0B0B?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-0B0B0B?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0B0B0B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-### Languages (extra)
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-0B0B0B?style=for-the-badge&logo=c-sharp&logoColor=239120" alt="C#" />
-</p>
-
----
-
-## 📌 Featured Projects
-> Cambia los repos por los tuyos (pon los nombres exactos).
-
-<div align="center">
-  <a href="https://github.com/Orlando693">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Orlando693&repo=REPO_1&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Orlando693">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Orlando693&repo=REPO_2&theme=github_dark&hide_border=true" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/Orlando693">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Orlando693&repo=REPO_3&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Orlando693">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Orlando693&repo=REPO_4&theme=github_dark&hide_border=true" />
-  </a>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Orlando693&show_icons=true&theme=github_dark&hide_border=true" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando693&layout=compact&theme=github_dark&hide_border=true" width="320" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orlando693&theme=github_dark&hide_border=true" width="760" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Orlando693&theme=darkhub&no-frame=true&row=1&column=6" alt="trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Orlando693&theme=github-compact&hide_border=true" width="900" />
-</div>
-
----
-
-## 🤝 Let’s connect
-
-<p align="center">
-  📩 <a href="mailto:orlandosebastian693@gmail.com">orlandosebastian693@gmail.com</a>
   <br/>
-  💻 Thanks for visiting my profile! Always motivated to learn, grow, and build real projects.
-</p>
 
-<!-- Optional: Snake animation (requires a GitHub Action to generate, ask me if you want it) -->
-<!-- ![snake](https://github.com/Orlando693/Orlando693/blob/output/github-contribution-grid-snake.svg) -->
+  <a href="mailto:orlandosebastian693@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/orlando693">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/amarillocors?igsh=c3g4dzVzcDIxbWc1">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+
+</div>
+
+
+
+## Dashboard 
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="52%">
+        <h3 align="center" >About Me</h3>
+        <ul>
+          <li> Frontend: <b>Next.js + Tailwind</b></li>
+          <li> Backend: <b>NestJS + Prisma</b></li>
+          <li> DB: <b>PostgreSQL</b> (y MySQL)</li>
+          <li> Workflow: <b>Git / GitHub</b></li>
+          <li> Goal: <b>UI limpia</b> + <b>APIs robustas</b></li>
+        </ul>
+      </td>
+      <td width="48%" align="center">
+        <img src="https://github.com/Orlando693.png" width="170" style="border-radius: 18px;" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Now%20Building-Fullstack%20Apps-0ea5e9?style=for-the-badge" />
+        <br/>
+        <img src="https://img.shields.io/badge/Focus-UI%2FUX%20%2B%20API%20Design-9333ea?style=for-the-badge" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=700&center=true&vCenter=true&width=900&lines=Frontend%3A+Next.js+%E2%80%A2+React+%E2%80%A2+Tailwind+%E2%80%A2+HTML+%E2%80%A2+CSS+%E2%80%A2+JS;Backend%3A+NestJS+%E2%80%A2+Prisma+%E2%80%A2+Laravel+%E2%80%A2+PHP;DB+%26+Tools%3A+PostgreSQL+%E2%80%A2+MySQL+%E2%80%A2+Git+%E2%80%A2+GitHub+%E2%80%A2+C%23" alt="Tech Typing" />
+</div>
+
+<br/>
+
+<div align="center">
+  <table width="100%" cellpadding="14">
+    <tr>
+      <td align="center" valign="top" width="33%">
+        <b> Frontend</b><br/><br/>
+        <img height="34" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /><br/><br/>
+        <img height="34" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0B0B0B" /><br/><br/>
+        <img height="34" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /><br/><br/>
+        <img height="34" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/><br/>
+        <img height="34" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br/><br/>
+        <img height="34" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0B0B0B" />
+      </td>
+      <td align="center" valign="top" width="33%">
+        <b> Backend</b><br/><br/>
+        <img height="34" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /><br/><br/>
+        <img height="34" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" /><br/><br/>
+        <img height="34" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /><br/><br/>
+        <img height="34" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      </td>
+      <td align="center" valign="top" width="33%">
+        <b> DB & Tools</b><br/><br/>
+        <img height="34" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /><br/><br/>
+        <img height="34" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/><br/>
+        <img height="34" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/><br/>
+        <img height="34" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br/><br/>
+        <img height="34" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="52" src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nestjs,prisma,postgres,laravel,php,git,github&perline=10" alt="skill-icons" />
+</div>
+
+
+
+
+##  What I'm doing now
+
+<br/>
+
+<div align="center">
+  <table width="980" cellpadding="16" cellspacing="0">
+    <tr>
+      <td align="center" width="30%" valign="top">
+        <img src="https://img.shields.io/badge/UI%20Polish-0ea5e9?style=for-the-badge" /><br/><br/>
+        <sub>Next.js + Tailwind</sub><br/><br/>
+        ✅ Components<br/>
+        ✅ Responsive<br/>
+        ✅ Spacing
+      </td>
+      <td align="center" width="25%" valign="top">
+        <img src="https://img.shields.io/badge/API%20Build-9333ea?style=for-the-badge" /><br/><br/>
+        <sub>NestJS + Prisma</sub><br/><br/>
+        ✅ Endpoints<br/>
+        ✅ Validation<br/>
+        ✅ DTOs
+      </td>
+      <td align="center" width="25%" valign="top">
+        <img src="https://img.shields.io/badge/Auth%20%26%20Roles-22c55e?style=for-the-badge" /><br/><br/>
+        <sub>JWT / Guards</sub><br/><br/>
+        ✅ Login<br/>
+        ✅ Roles<br/>
+        ✅ Permissions
+      </td>  
+      <td width="320" align="center" valign="top">
+        <img src="https://img.shields.io/badge/Deploy%20Ready-f59e0b?style=for-the-badge" /><br/><br/>
+        <sub>Configs / Env Vars</sub><br/><br/>
+        ✅ .env<br/>
+        ✅ Build<br/>
+        ✅ Production
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Active%20Development-22c55e?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weekly%20Goal-Ship%201%20Feature-0ea5e9?style=flat" />
+  <img src="https://img.shields.io/badge/Mood-Perfectionist%20Mode-111827?style=flat" />
+</div>
+
+
+##  Stats 
+
+  <br/>
+
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orlando693&theme=github_dark&hide_border=true" height="185" />
+  </div>
+
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Orlando693&theme=darkhub&no-frame=true&row=1&column=6" />
+  </div>
+
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Orlando693&theme=github-compact&hide_border=true" width="900" />
+  </div>
+
+
+<div align="center">
+  <h3>✨ Thanks for visiting!</h3>
+  <p>Siempre motivado para aprender, crecer y construir proyectos reales.</p>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:9333ea,100:0ea5e9" />
+
