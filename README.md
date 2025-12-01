@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Orlando%20Moreno%20Cors&fontAlign=50&fontAlignY=40&color=0:0ea5e9,100:9333ea&fontColor=ffffff" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=980&lines=Frontend+Developer+%C2%B7+Computer+Engineering+Student;Next.js+%2B+Tailwind+%7C+NestJS+%2B+Prisma+%7C+PostgreSQL;Turning+ideas+into+clean+UI+%26+solid+APIs;Always+building+%F0%9F%9A%80+Always+learning+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=980&lines=FullStack+Developer+%C2%B7+Computer+Engineering+Student;Next.js+%2B+Tailwind+%7C+NestJS+%2B+Prisma+%7C+PostgreSQL;Turning+ideas+into+clean+UI+%26+solid+APIs;Always+building.+Always+learning.+" alt="Typing SVG" />
 
   <br/>
 
@@ -23,30 +23,30 @@
 
 ## Dashboard 
 
+
 <div align="center">
   <table>
     <tr>
       <td width="52%">
-        <h3 align="center" >About Me</h3>
+        <h3 align="center">About Me</h3>
         <ul>
-          <li> Frontend: <b>Next.js + Tailwind</b></li>
-          <li> Backend: <b>NestJS + Prisma</b></li>
-          <li> DB: <b>PostgreSQL</b> (y MySQL)</li>
-          <li> Workflow: <b>Git / GitHub</b></li>
-          <li> Goal: <b>UI limpia</b> + <b>APIs robustas</b></li>
+          <li> <b>Proactive learner</b>: I adapt quickly to new tools and environments.</li>
+          <li> <b>Problem-solver</b>: I focus on understanding the “why” and fixing issues at the root.</li>
+          <li> <b>Team mindset</b>: clear communication, constructive feedback, and collaboration.</li>
+          <li> <b>Reliable & consistent</b>: I deliver on time and pay close attention to details.</li>
+          <li> <b>Growth-oriented</b>: I improve continuously through practice and real projects.</li>
         </ul>
       </td>
       <td width="48%" align="center">
         <img src="https://github.com/Orlando693.png" width="170" style="border-radius: 18px;" />
         <br/><br/>
-        <img src="https://img.shields.io/badge/Now%20Building-Fullstack%20Apps-0ea5e9?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Now%20Building-Real%20Projects-0ea5e9?style=for-the-badge" />
         <br/>
-        <img src="https://img.shields.io/badge/Focus-UI%2FUX%20%2B%20API%20Design-9333ea?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Focus-Quality%20%26%20Consistency-9333ea?style=for-the-badge" />
       </td>
     </tr>
   </table>
 </div>
-
 
 ## Tech Stack
 
@@ -156,9 +156,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Orlando693&theme=darkhub&no-frame=true&row=1&column=6" />
   </div>
 
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Orlando693&theme=github-compact&hide_border=true" width="900" />
-  </div>
+ 
 
 
 <div align="center">
