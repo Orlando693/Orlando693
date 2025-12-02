@@ -35,6 +35,7 @@
           <li> <b>Team mindset</b>: clear communication, constructive feedback, and collaboration.</li>
           <li> <b>Reliable & consistent</b>: I deliver on time and pay close attention to details.</li>
           <li> <b>Growth-oriented</b>: I improve continuously through practice and real projects.</li>
+          <br/>
         </ul>
       </td>
       <td width="48%" align="center">
