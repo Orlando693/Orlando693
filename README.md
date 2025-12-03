@@ -107,30 +107,38 @@
       <td align="center" width="30%" valign="top">
         <img src="https://img.shields.io/badge/UI%20Polish-0ea5e9?style=for-the-badge" /><br/><br/>
         <sub>Next.js + Tailwind</sub><br/><br/>
-        ✅ Components<br/>
-        ✅ Responsive<br/>
-        ✅ Spacing
+        <div align="left" style="display:inline-block">
+          ✅ Components<br/>
+          ✅ Responsive<br/>
+          ✅ Spacing
+        </div>
       </td>
       <td align="center" width="25%" valign="top">
         <img src="https://img.shields.io/badge/API%20Build-9333ea?style=for-the-badge" /><br/><br/>
         <sub>NestJS + Prisma</sub><br/><br/>
-        ✅ Endpoints<br/>
-        ✅ Validation<br/>
-        ✅ DTOs
+        <div align="left" style="display:inline-block">
+          ✅ Endpoints<br/>
+          ✅ Validation<br/>
+          ✅ DTOs
+        </div>
       </td>
       <td align="center" width="25%" valign="top">
         <img src="https://img.shields.io/badge/Auth%20%26%20Roles-22c55e?style=for-the-badge" /><br/><br/>
         <sub>JWT / Guards</sub><br/><br/>
-        ✅ Login<br/>
-        ✅ Roles<br/>
-        ✅ Permissions
+        <div align="left" style="display:inline-block">
+          ✅ Login<br/>
+          ✅ Roles<br/>
+          ✅ Permissions
+        </div>
       </td>  
       <td width="320" align="center" valign="top">
         <img src="https://img.shields.io/badge/Deploy%20Ready-f59e0b?style=for-the-badge" /><br/><br/>
         <sub>Configs / Env Vars</sub><br/><br/>
-        ✅ .env<br/>
-        ✅ Build<br/>
-        ✅ Production
+        <div align="left" style="display:inline-block">
+          ✅ .env<br/>
+          ✅ Build<br/>
+          ✅ Production
+        </div>
       </td>
     </tr>
   </table>
