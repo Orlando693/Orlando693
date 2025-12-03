@@ -148,21 +148,23 @@
 ##  Stats 
 
   <br/>
-
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orlando693&theme=github_dark&hide_border=true" height="185" />
-  </div>
-
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Orlando693&theme=darkhub&no-frame=true&row=1&column=6" />
-  </div>
-
- 
-
-
+<div align="center">
+  <img
+    height="185"
+    src="https://streak-stats.demolab.com?user=Orlando693&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=0EA5E9&ring=0EA5E9&fire=0EA5E9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0EA5E9&sideLabels=0EA5E9&dates=9CA3AF&v=2"
+    alt="GitHub Streak"
+  />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0ea5e9,100:9333ea" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Orlando693&theme=darkhub&no-frame=true&no-bg=true&column=-1&margin-w=12" />
+  <br/><br/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:9333ea,100:0ea5e9" />
+</div>
+  
 <div align="center">
   <h3>✨ Thanks for visiting!</h3>
-  <p>Siempre motivado para aprender, crecer y construir proyectos reales.</p>
+  <p>Always motivated to learn, grow, and build real projects.</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:9333ea,100:0ea5e9" />
