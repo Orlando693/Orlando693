@@ -159,9 +159,11 @@
 <div align="center">
   <img
     height="185"
-    src="https://streak-stats.demolab.com?user=Orlando693&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=0EA5E9&ring=0EA5E9&fire=0EA5E9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0EA5E9&sideLabels=0EA5E9&dates=9CA3AF&v=2"
+    src="https://streak-stats.demolab.com/?user=Orlando693&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=0EA5E9&ring=0EA5E9&fire=0EA5E9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0EA5E9&sideLabels=0EA5E9&dates=9CA3AF&v=3"
     alt="GitHub Streak"
   />
+</div>
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0ea5e9,100:9333ea" />
   <br/><br/>
