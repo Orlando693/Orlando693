@@ -1,10 +1,22 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Orlando693%&fontAlign=50&fontAlignY=40&color=0:0ea5e9,100:9333ea&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Orlando%20Moreno%20Cors&&fontAlign=50&fontAlignY=40&color=0:0ea5e9,100:9333ea&fontColor=ffffff" />
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=980&lines=FullStack+Developer+%C2%B7+Computer+Engineering+Student;Next.js+%2B+Tailwind+%7C+NestJS+%2B+Prisma+%7C+PostgreSQL;Turning+ideas+into+clean+UI+%26+solid+APIs;Always+building.+Always+learning.+" alt="Typing SVG" />
 
-  <br/>
+ <br/><br/>
+
+<a href="mailto:orlandosebastian693@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/orlando693">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/amarillocors?igsh=c3g4dzVzcDIxbWc1">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<br/><br/>
 
 
 </div>
